@@ -76,8 +76,7 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
-    - File: [`api/v1/app.py`](./api/v1/app.py)
-    - File: [`api/v1/views/index.py`](./api/v1/views/index.py)
+    
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
@@ -152,6 +151,7 @@ bob@dylan:~$
     - Directory: `0x01-Basic_authentication`
     - File: [`api/v1/app.py`](./api/v1/app.py)
     - File: [`api/v1/views/index.py`](./api/v1/views/index.py)
+    
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
@@ -224,9 +224,9 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
-    - File: [`api/v1/auth`](./api/v1/auth)
-    - File: [`api/v1/auth/__init__.py`](./api/v1/auth/__init__.py)
-    - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
+    - File: [`api/v1/app.py`](./api/v1/app.py)
+    - File: [`api/v1/views/index.py`](./api/v1/views/index.py)
+    
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
@@ -277,7 +277,10 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
+    - File: [`api/v1/auth`](./api/v1/auth)
+    - File: [`api/v1/auth/__init__.py`](./api/v1/auth/__init__.py)
     - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
+    
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
@@ -327,8 +330,8 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
-    - File: [`api/v1/app.py`](./api/v1/app.py)
     - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
+    
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
@@ -411,7 +414,8 @@ bob@dylan:~$
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
     - File: [`api/v1/app.py`](./api/v1/app.py)
-    - File: [`api/v1/auth/basic_auth.py`](./api/v1/auth/basic_auth.py)
+    - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
+    
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
@@ -466,7 +470,9 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
+    - File: [`api/v1/app.py`](./api/v1/app.py)
     - File: [`api/v1/auth/basic_auth.py`](./api/v1/auth/basic_auth.py)
+    
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
@@ -517,6 +523,7 @@ bob@dylan:~$
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
     - File: [`api/v1/auth/basic_auth.py`](./api/v1/auth/basic_auth.py)
+    
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
@@ -564,6 +571,7 @@ bob@dylan:~$
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
     - File: [`api/v1/auth/basic_auth.py`](./api/v1/auth/basic_auth.py)
+    
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
@@ -868,7 +876,8 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
-    - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
+    - File: [`api/v1/auth/basic_auth.py`](./api/v1/auth/basic_auth.py)
+    
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
@@ -890,7 +899,7 @@ bob@dylan:~$
 - Repo
     - GitHub repository: `alx-backend-user-data`
     - Directory: `0x01-Basic_authentication`
-    - File: [``](./)
+    - File: [`api/v1/auth/auth.py`](./api/v1/auth/auth.py)
 ---
 
 
