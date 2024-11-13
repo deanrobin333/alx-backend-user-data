@@ -5,7 +5,8 @@
 - [Projects](#tasks)
     - [0. 0x00. Personal data](#0)
     - [1. 0x01. Basic authentication](#1)
-    - [2. ](#2)
+    - [2. 0x02. Session authentication](#2)
+    - [3. ](#3)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -32,7 +33,17 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-### [2. ](./)
+### [2. 0x02. Session authentication](./0x02-Session_authentication)
+- What authentication means
+- What session authentication means
+- What Cookies are
+- How to send Cookies
+- How to parse Cookies
+
+---
+#### 3
+###### [Table of Contents](#table-of-contents)
+### [3. ](./)
 
 
 ---
