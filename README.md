@@ -6,7 +6,8 @@
     - [0. 0x00. Personal data](#0)
     - [1. 0x01. Basic authentication](#1)
     - [2. 0x02. Session authentication](#2)
-    - [3. ](#3)
+    - [3. 0x03. User authentication service](#3)
+    - [4. ](#4)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -43,7 +44,17 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-### [3. ](./)
+### [3. 0x03. User authentication service](./0x03-user_authentication_service)
+- How to declare API routes in a Flask app
+- How to get and set cookies
+- How to retrieve request form data
+- How to return various HTTP status codes
+
+
+---
+#### 4
+###### [Table of Contents](#table-of-contents)
+### [4. ](./)
 
 
 ---
